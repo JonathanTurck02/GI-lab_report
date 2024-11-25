@@ -1,0 +1,23 @@
+site_name: "Microbiome Analysis"
+site_url: https://report.example
+theme:
+  icon:
+    logo: fontawesome/solid/chart-simple
+  name: material
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: teal
+      accent: amber
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: teal
+      accent: amber
+
