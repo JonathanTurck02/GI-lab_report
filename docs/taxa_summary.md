@@ -1,6 +1,6 @@
 # Taxa Summary
 
-The metagenomics by shotgun gene sequencing showed small changes in fecal bacterial taxa at phylum, family, genus, and species levels between the two groups.
+The shotgun metagenomic sequencing showed small changes in fecal bacterial taxa at phylum, family, genus, and species levels between the two groups.
 
 The overall changes in the relative abundance at the phylum level between the groups are graphically shown in the stacked barplot below.
 
