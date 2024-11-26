@@ -14,9 +14,9 @@ Identified significant taxa were visualized using GraphPad Prism v10.0.2 (GraphP
 
 ### Top Differentially Abundant Taxa
 
-| ![Clostridium P ventriculi](assets/taxa_summary/s__Clostridium_P_ventriculi.jpg) | ![Enterococcus D casseliflavus](assets/taxa_summary/s__Enterococcus_D_casseliflavus.jpg) | ![Lactiplantibacillus plantarum](assets/taxa_summary/s__Lactiplantibacillus_plantarum.jpg) |
+| ![Clostridium P ventriculi](assets/taxa_summary/clostridium.png) | ![Enterococcus D casseliflavus](assets/taxa_summary/enterococcus.png) | ![Lactiplantibacillus plantarum](assets/taxa_summary/plantarum.png) |
 |:--------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|
-| ![Lactobacillus johnsonii](assets/taxa_summary/s__Lactobacillus_johnsonii.jpg)  | ![Streptococcus lutetiensis](assets/taxa_summary/s__Streptococcus_lutetiensis.jpg)      |                                                                                        |
+| ![Lactobacillus johnsonii](assets/taxa_summary/johnsonii.png)  | ![Streptococcus lutetiensis](assets/taxa_summary/strep.png)      |                                                                                        |
 
 <div style="font-size: 14px;">
 <b>Figure 4:</b> Differential abundance analysis for group 1 and group 2. The relative abundance of the species (A) <i>Clostridium P ventriculi</i> (p&lt;0.0001), (B) <i>Lactobacillus johnsonii</i> (p&lt;0.0001), (C) <i>Lactiplantibacillus plantarum</i> (p&lt;0.0001), (D) <i>Streptococcus lutetiensis</i> (p&lt;0.0001), and (E) <i>Enterococcus D casseliflavus</i> (p&lt;0.0001) was significantly different between group 1 and group 2. Differentially abundant taxa between the two groups at species levels were identified using Analysis of Composition of Microbiomes with Bias Correction (<i>ANCOM-BC</i>).

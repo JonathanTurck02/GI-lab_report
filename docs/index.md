@@ -3,6 +3,7 @@ This study aimed to assess the differences between the fecal microbiome of group
 
 ## Report layout
     Home
+    Report Summary
     Methods
     Results
     ├── Alpha Diversity
