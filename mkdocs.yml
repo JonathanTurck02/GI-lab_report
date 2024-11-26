@@ -1,6 +1,8 @@
 site_name: "Microbiome Analysis Report (Sample)"
 site_url: https://jonathanturck02.github.io/GI-lab_report
 theme:
+  features:
+    - navigation.footer
   icon:
     logo: fontawesome/solid/chart-simple
   name: material
