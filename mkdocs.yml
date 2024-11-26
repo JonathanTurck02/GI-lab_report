@@ -1,27 +1,28 @@
 site_name: "Microbiome Analysis Report (Sample)"
 site_url: https://jonathanturck02.github.io/GI-lab_report
 theme:
+  name: material
   features:
     - navigation.footer
   icon:
-    logo: fontawesome/solid/chart-simple
-  name: material
+    logo: fontawesome/solid/chart-simple   
+  favicon: assets/favicon.ico
   palette:
     # Light Mode (Default)
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: teal
-      accent: amber
+      primary: custom
+      accent: blue grey
 
     # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: teal
-      accent: amber
+      primary: custom
+      accent: blue grey
 nav:
   - Home: index.md
   - Report Summary: report_summary.md
@@ -33,5 +34,7 @@ nav:
   - Data Export: data.md
   - Knowledge Base:
       - 16S vs Shotgun Metagenomics: 16S_vs_shotgun.md
+extra_css:
+  - stylesheets/extra.css
 
 
