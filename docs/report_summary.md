@@ -1,4 +1,4 @@
-## Report Summary
+## High-Level Summary
 This study aimed to assess the differences between the fecal microbiome of group 1 and 2. Only minor changes in the overall microbiome composition between group 1 and 2 were observed, with a substantial overlap of a subset of samples between the groups. Statistical analysis showed no significant separation of the fecal microbiome composition between the two groups. Differential abundance analysis revealed small differences on a species level between the groups. The diversity within the samples was significantly different between group 1 and group 2. Group 1 showed an increased species richness and evenness compared to group 2.
 
 ---
