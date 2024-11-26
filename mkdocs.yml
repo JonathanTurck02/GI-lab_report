@@ -1,10 +1,18 @@
-site_name: "Microbiome Analysis"
-site_url: https://report.example
+site_name: "Microbiome Analysis Report (Sample)"
+site_url: https://jonathanturck02.github.io/GI-lab_report
 theme:
   icon:
     logo: fontawesome/solid/chart-simple
   name: material
   palette:
+    # Light Mode (Default)
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: teal
+      accent: amber
+
     # Dark Mode
     - scheme: slate
       toggle:
@@ -12,12 +20,15 @@ theme:
         name: Dark mode
       primary: teal
       accent: amber
+nav:
+  - Home: index.md
+  - Methods: methods.md
+  - Results:
+      - Alpha Diversity: alpha_div.md
+      - Beta Diversity: beta_div.md
+      - Taxa Summary: taxa_summary.md
+  - Data Export: data.md
+  - Knowledge Base:
+      - 16S vs Shotgun Metagenomics: 16S_vs_shotgun.md
 
-    # Light Mode
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Light mode
-      primary: teal
-      accent: amber
 

@@ -1,0 +1,4 @@
+Group 1,Group 2,Sample size,Permutations,R,p-value,q-value
+group1,group2,70,999,0.038189986,0.113,0.113
+group1,group2,83,999,0.026955948,0.054,0.081
+group1,group2,73,999,0.086489728,0.013,0.039
